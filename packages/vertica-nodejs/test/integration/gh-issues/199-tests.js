@@ -1,8 +1,8 @@
 'use strict'
 var helper = require('../test-helper')
-var client = helper.client()
+// var client = helper.client()
 
-client.end()
+// client.end()
 
 // Disabled due to no complex type support
 /*
